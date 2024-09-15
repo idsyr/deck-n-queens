@@ -1,0 +1,16 @@
+#+TITLE: README deck-n-queens  
+#+AUTHOR: idsyr
+#+STARTUP: showeverything 
+#+OPTIONS: toc:4
+
+* Солвер задачи о N ферзях на поле N*N (SWI-Prolog 9.2.4)
+** Использование:
+#+begin_src shell
+swipl
+consult("main.pro").
+queen_problem(8).
+#+end_src
+
+
+
+
